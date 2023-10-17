@@ -1,0 +1,3 @@
+[submodule "firebase-101"]
+	path = firebase-101
+	url = https://github.com/flxwu/firebase-101
